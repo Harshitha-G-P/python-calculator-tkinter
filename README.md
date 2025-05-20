@@ -23,5 +23,4 @@
  # Prerequisites
  * This code will run only on Python3.x
  * You need to have Python 3.x on your PC, you can [Download here](https://www.python.org/downloads/)
-  # Contributor
-  #### @LasyaGanesuni
+  
